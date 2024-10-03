@@ -1,6 +1,6 @@
 ![Header Image](https://fanzon-portal.ru/upload/iblock/4f5/4f5212a9ac6010c663d1554f40d869d0.jpg)
 
-# Hi, I'm Erwin! But you can just call me Eric. 👋
+# Hi, I'm Ervin! But you can just call me Erik. 👋
 
 I am a programmer passionate about development and learning new technologies. In the world of code, I enjoy solving complex problems and finding elegant solutions.
 
